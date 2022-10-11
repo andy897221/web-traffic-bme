@@ -1,0 +1,108 @@
+{"id": 0, "dateTime": "2021-11-11 21:04:26.796", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-11 21:05:03.985", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 2, "dateTime": "2021-11-11 21:05:04.077", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 3, "dateTime": "2021-11-11 21:05:09.015", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 4, "dateTime": "2021-11-11 21:05:09.015", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 5, "dateTime": "2021-11-11 21:05:14.008", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 6, "dateTime": "2021-11-11 21:05:14.009", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 7, "dateTime": "2021-11-11 21:05:19.016", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 8, "dateTime": "2021-11-11 21:05:19.017", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 9, "dateTime": "2021-11-11 21:05:21.562", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 10, "dateTime": "2021-11-11 21:05:24.002", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 11, "dateTime": "2021-11-11 21:05:24.002", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 12, "dateTime": "2021-11-11 21:05:29.834", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 13, "dateTime": "2021-11-11 21:05:29.834", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 14, "dateTime": "2021-11-11 21:05:34.821", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 15, "dateTime": "2021-11-11 21:05:34.821", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 16, "dateTime": "2021-11-11 21:05:38.915", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 17, "dateTime": "2021-11-11 21:05:39.010", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 18, "dateTime": "2021-11-11 21:05:39.010", "isWeb": 1, "tmpUserID": 47, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 19, "dateTime": "2021-11-11 21:05:39.031", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 20, "dateTime": "2021-11-11 21:05:40.397", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 21, "dateTime": "2021-11-11 21:05:43.903", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}
+{"id": 22, "dateTime": "2021-11-11 21:06:29.138", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 23, "dateTime": "2021-11-11 21:06:29.369", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 24, "dateTime": "2021-11-11 21:06:37.719", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 25, "dateTime": "2021-11-11 21:06:39.901", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 26, "dateTime": "2021-11-11 21:06:40.117", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 27, "dateTime": "2021-11-11 21:06:42.333", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 28, "dateTime": "2021-11-11 21:07:01.088", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 29, "dateTime": "2021-11-11 21:07:10.287", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 30, "dateTime": "2021-11-11 21:07:11.878", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 31, "dateTime": "2021-11-11 21:07:11.895", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": [], "action": "nav"}
+{"id": 32, "dateTime": "2021-11-11 21:07:13.577", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Select Equipment:"}, "action": "click"}
+{"id": 33, "dateTime": "2021-11-11 21:07:13.652", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 34, "dateTime": "2021-11-11 21:07:15.963", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_selectBotSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 35, "dateTime": "2021-11-11 21:07:23.348", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 36, "dateTime": "2021-11-11 21:07:28.769", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "My Profile"}, "action": "click"}
+{"id": 37, "dateTime": "2021-11-11 21:07:28.783", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 38, "dateTime": "2021-11-11 21:07:31.999", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 39, "dateTime": "2021-11-11 21:07:32.683", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/contact", "data": [], "action": "nav"}
+{"id": 40, "dateTime": "2021-11-11 21:08:15.607", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/contact", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 41, "dateTime": "2021-11-11 21:08:16.968", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 42, "dateTime": "2021-11-11 21:08:18.248", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 43, "dateTime": "2021-11-11 21:08:38.734", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 44, "dateTime": "2021-11-11 21:08:38.963", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 45, "dateTime": "2021-11-11 21:08:41.838", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "ST414", "to": "ST414"}, "action": "changeTab"}
+{"id": 46, "dateTime": "2021-11-11 21:08:42.860", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 47, "dateTime": "2021-11-11 21:08:44.974", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Forum"}, "action": "click"}
+{"id": 48, "dateTime": "2021-11-11 21:08:44.992", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/discuss", "data": [], "action": "nav"}
+{"id": 49, "dateTime": "2021-11-11 21:09:24.545", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/discuss", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 50, "dateTime": "2021-11-11 21:09:27.257", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 51, "dateTime": "2021-11-11 21:09:27.272", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": [], "action": "nav"}
+{"id": 52, "dateTime": "2021-11-11 21:11:17.330", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 53, "dateTime": "2021-11-11 21:11:59.305", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 54, "dateTime": "2021-11-11 21:11:59.473", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 55, "dateTime": "2021-11-11 21:12:01.541", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Alkaline Phosphatase Assay", "id": "33"}, "action": "click"}
+{"id": 56, "dateTime": "2021-11-11 21:12:01.558", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/info?itemID=33", "data": [], "action": "nav"}
+{"id": 57, "dateTime": "2021-11-11 21:12:01.977", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 58, "dateTime": "2021-11-11 21:12:04.519", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/info?itemID=33", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 33}, "action": "click"}
+{"id": 59, "dateTime": "2021-11-11 21:12:04.580", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 60, "dateTime": "2021-11-11 21:15:09.021", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 61, "dateTime": "2021-11-11 21:15:13.406", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 62, "dateTime": "2021-11-11 21:15:15.280", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Agree"}, "action": "click"}
+{"id": 63, "dateTime": "2021-11-11 21:15:17.973", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}
+{"id": 64, "dateTime": "2021-11-11 21:15:29.264", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 65, "dateTime": "2021-11-11 21:15:29.425", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 66, "dateTime": "2021-11-11 21:15:30.663", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 67, "dateTime": "2021-11-11 21:15:31.779", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 68, "dateTime": "2021-11-11 21:15:31.963", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 69, "dateTime": "2021-11-11 21:15:34.407", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "ST414", "to": "GH198"}, "action": "changeTab"}
+{"id": 70, "dateTime": "2021-11-11 21:15:35.174", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 71, "dateTime": "2021-11-11 21:15:35.990", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "ST414", "to": "GH198"}, "action": "changeTab"}
+{"id": 72, "dateTime": "2021-11-11 21:15:36.610", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Circuit Development Toolkits", "id": "27"}, "action": "click"}
+{"id": 73, "dateTime": "2021-11-11 21:15:36.630", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/info?itemID=27", "data": [], "action": "nav"}
+{"id": 74, "dateTime": "2021-11-11 21:15:36.940", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 75, "dateTime": "2021-11-11 21:15:40.610", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/info?itemID=27", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 27}, "action": "click"}
+{"id": 76, "dateTime": "2021-11-11 21:15:40.650", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 77, "dateTime": "2021-11-11 21:15:42.274", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 78, "dateTime": "2021-11-11 21:15:45.120", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Contact"}, "action": "click"}
+{"id": 79, "dateTime": "2021-11-11 21:15:45.147", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/contact", "data": [], "action": "nav"}
+{"id": 80, "dateTime": "2021-11-11 21:15:47.997", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/contact", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 81, "dateTime": "2021-11-11 21:15:52.056", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 82, "dateTime": "2021-11-11 21:15:52.079", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": [], "action": "nav"}
+{"id": 83, "dateTime": "2021-11-11 21:15:55.896", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 84, "dateTime": "2021-11-11 21:15:58.356", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 85, "dateTime": "2021-11-11 21:15:58.369", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": [], "action": "nav"}
+{"id": 86, "dateTime": "2021-11-11 21:16:02.868", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Select Date:"}, "action": "click"}
+{"id": 87, "dateTime": "2021-11-11 21:16:06.564", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 88, "dateTime": "2021-11-11 21:16:11.384", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 89, "dateTime": "2021-11-11 21:16:11.592", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 90, "dateTime": "2021-11-11 21:16:13.250", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 91, "dateTime": "2021-11-11 21:16:26.451", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 92, "dateTime": "2021-11-11 21:16:26.646", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 93, "dateTime": "2021-11-11 21:16:28.398", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 94, "dateTime": "2021-11-11 21:16:30.110", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 95, "dateTime": "2021-11-11 21:16:31.257", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 96, "dateTime": "2021-11-11 21:16:31.410", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 97, "dateTime": "2021-11-11 21:16:32.942", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "ST414", "to": "GH198"}, "action": "changeTab"}
+{"id": 98, "dateTime": "2021-11-11 21:16:35.387", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 99, "dateTime": "2021-11-11 21:16:37.510", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"from": "ST414", "to": "GH198"}, "action": "changeTab"}
+{"id": 100, "dateTime": "2021-11-11 21:16:38.121", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Circuit Development Toolkits", "id": "27"}, "action": "click"}
+{"id": 101, "dateTime": "2021-11-11 21:16:38.139", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/info?itemID=27", "data": [], "action": "nav"}
+{"id": 102, "dateTime": "2021-11-11 21:16:38.458", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 103, "dateTime": "2021-11-11 21:16:54.807", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/info?itemID=27", "data": {"type": "actionType.button", "desc": "protoPage", "text": "Arduino Web Tutorial", "url": "https://www.arduino.cc/en/Tutorial/HomePage"}, "action": "click"}
+{"id": 104, "dateTime": "2021-11-11 21:16:57.072", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/info?itemID=27", "data": {"type": "actionType.button", "desc": "protoPage", "text": "Prototyping Tutorial", "url": "https://www.youtube.com/watch?v=0Mu2L9z1MH8"}, "action": "click"}
+{"id": 105, "dateTime": "2021-11-11 21:17:04.537", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/info?itemID=27", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 27}, "action": "click"}
+{"id": 106, "dateTime": "2021-11-11 21:17:04.589", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 107, "dateTime": "2021-11-11 21:17:05.959", "isWeb": 1, "tmpUserID": 47, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}

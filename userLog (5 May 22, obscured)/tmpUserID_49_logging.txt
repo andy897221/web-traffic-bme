@@ -1,0 +1,45 @@
+{"id": 0, "dateTime": "2021-11-14 13:53:11.897", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-14 14:45:05.051", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2021-11-14 14:45:05.503", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-11-14 14:45:11.759", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Analytical Balance (ME204)", "id": "16"}, "action": "click"}
+{"id": 4, "dateTime": "2021-11-14 14:45:11.803", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/info?itemID=16", "data": [], "action": "nav"}
+{"id": 5, "dateTime": "2021-11-14 14:45:12.197", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 6, "dateTime": "2021-11-14 14:45:29.700", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/info?itemID=16", "data": [], "action": "popping"}
+{"id": 7, "dateTime": "2021-11-14 14:45:29.817", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 8, "dateTime": "2021-11-14 14:45:35.560", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "Y506", "to": "ST414"}, "action": "changeTab"}
+{"id": 9, "dateTime": "2021-11-14 14:45:35.561", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "ST414", "to": "ST414"}, "action": "changeTab"}
+{"id": 10, "dateTime": "2021-11-14 14:45:35.561", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "ST414", "to": "ST414"}, "action": "changeTab"}
+{"id": 11, "dateTime": "2021-11-14 14:45:48.314", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 12, "dateTime": "2021-11-14 14:45:48.357", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/booking", "data": [], "action": "nav"}
+{"id": 13, "dateTime": "2021-11-14 14:45:48.525", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 14, "dateTime": "2021-11-14 14:45:50.366", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 15, "dateTime": "2021-11-14 14:46:47.837", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-01-15 23:30:06.242", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-15 23:30:22.658", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2022-01-15 23:30:22.992", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2022-01-15 23:30:25.520", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Analytical Balance (ME204)", "id": "16"}, "action": "click"}
+{"id": 4, "dateTime": "2022-01-15 23:30:25.543", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/info?itemID=16", "data": [], "action": "nav"}
+{"id": 5, "dateTime": "2022-01-15 23:30:25.884", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 6, "dateTime": "2022-01-15 23:30:27.485", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/info?itemID=16", "data": [], "action": "popping"}
+{"id": 7, "dateTime": "2022-01-15 23:30:27.592", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 8, "dateTime": "2022-01-15 23:30:28.628", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 9, "dateTime": "2022-01-15 23:30:28.628", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "GH198", "to": "GH198"}, "action": "changeTab"}
+{"id": 10, "dateTime": "2022-01-15 23:30:28.628", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "GH198", "to": "GH198"}, "action": "changeTab"}
+{"id": 11, "dateTime": "2022-01-15 23:30:38.471", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Licensed IDEs (Matlab; VS Studio)", "id": "23"}, "action": "click"}
+{"id": 12, "dateTime": "2022-01-15 23:30:38.502", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/info?itemID=23", "data": [], "action": "nav"}
+{"id": 13, "dateTime": "2022-01-15 23:30:38.808", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 14, "dateTime": "2022-01-15 23:30:46.196", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/info?itemID=23", "data": {"type": "actionType.button", "desc": "protoPage", "text": "VS Studio Free", "url": "https://visualstudio.microsoft.com/zh-hant/vs/community/"}, "action": "click"}
+{"id": 15, "dateTime": "2022-01-15 23:30:53.562", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/info?itemID=23", "data": [], "action": "popping"}
+{"id": 16, "dateTime": "2022-01-15 23:30:53.661", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 17, "dateTime": "2022-01-15 23:30:55.296", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 18, "dateTime": "2022-01-15 23:30:55.296", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "ST414", "to": "ST414"}, "action": "changeTab"}
+{"id": 19, "dateTime": "2022-01-15 23:30:55.296", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "ST414", "to": "ST414"}, "action": "changeTab"}
+{"id": 20, "dateTime": "2022-01-15 23:30:55.296", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "ST414", "to": "ST414"}, "action": "changeTab"}
+{"id": 21, "dateTime": "2022-01-15 23:30:55.296", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "ST414", "to": "ST414"}, "action": "changeTab"}
+{"id": 22, "dateTime": "2022-01-15 23:30:57.631", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "ST414", "to": "Y506"}, "action": "changeTab"}
+{"id": 23, "dateTime": "2022-01-15 23:30:57.631", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "Y506", "to": "Y506"}, "action": "changeTab"}
+{"id": 24, "dateTime": "2022-01-15 23:30:57.631", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "Y506", "to": "Y506"}, "action": "changeTab"}
+{"id": 25, "dateTime": "2022-01-15 23:30:57.631", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "Y506", "to": "Y506"}, "action": "changeTab"}
+{"id": 26, "dateTime": "2022-01-15 23:30:57.631", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"from": "Y506", "to": "Y506"}, "action": "changeTab"}
+{"id": 27, "dateTime": "2022-01-15 23:31:05.792", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 28, "dateTime": "2022-01-15 23:31:06.114", "isWeb": 1, "tmpUserID": 49, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}

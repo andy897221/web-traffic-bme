@@ -1,0 +1,54 @@
+{"id": 0, "dateTime": "2022-04-19 12:20:18.061", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-19 12:20:24.405", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 2, "dateTime": "2022-04-19 12:20:24.454", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 3, "dateTime": "2022-04-19 12:20:26.284", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 4, "dateTime": "2022-04-19 12:20:35.220", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 5, "dateTime": "2022-04-19 12:20:35.258", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 6, "dateTime": "2022-04-19 12:20:40.229", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 7, "dateTime": "2022-04-19 12:20:40.229", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 8, "dateTime": "2022-04-19 12:20:45.233", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 9, "dateTime": "2022-04-19 12:20:45.234", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 10, "dateTime": "2022-04-19 12:20:49.742", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 11, "dateTime": "2022-04-19 12:20:50.231", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 12, "dateTime": "2022-04-19 12:20:50.231", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 13, "dateTime": "2022-04-19 12:20:52.712", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 14, "dateTime": "2022-04-19 12:20:55.226", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 15, "dateTime": "2022-04-19 12:20:55.226", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 16, "dateTime": "2022-04-19 12:21:00.247", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 17, "dateTime": "2022-04-19 12:21:00.247", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 18, "dateTime": "2022-04-19 12:21:05.232", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 19, "dateTime": "2022-04-19 12:21:05.232", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 20, "dateTime": "2022-04-19 12:21:10.639", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 21, "dateTime": "2022-04-19 12:21:10.639", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 22, "dateTime": "2022-04-19 12:21:15.237", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 23, "dateTime": "2022-04-19 12:21:15.237", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 24, "dateTime": "2022-04-19 12:21:20.638", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 25, "dateTime": "2022-04-19 12:21:20.638", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 26, "dateTime": "2022-04-19 12:21:25.636", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 27, "dateTime": "2022-04-19 12:21:25.637", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 28, "dateTime": "2022-04-19 12:21:30.637", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 29, "dateTime": "2022-04-19 12:21:30.637", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 30, "dateTime": "2022-04-19 12:21:35.644", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 31, "dateTime": "2022-04-19 12:21:35.644", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 32, "dateTime": "2022-04-19 12:21:40.239", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 33, "dateTime": "2022-04-19 12:21:40.239", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 34, "dateTime": "2022-04-19 12:21:41.953", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 35, "dateTime": "2022-04-19 12:21:45.225", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 36, "dateTime": "2022-04-19 12:21:45.225", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 37, "dateTime": "2022-04-19 12:21:50.246", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 38, "dateTime": "2022-04-19 12:21:50.247", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 39, "dateTime": "2022-04-19 12:21:55.231", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 40, "dateTime": "2022-04-19 12:21:55.231", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 41, "dateTime": "2022-04-19 12:21:56.307", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 42, "dateTime": "2022-04-19 12:22:01.378", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}
+{"id": 43, "dateTime": "2022-04-19 12:22:17.845", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 44, "dateTime": "2022-04-19 12:22:18.035", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 45, "dateTime": "2022-04-19 12:22:21.785", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 46, "dateTime": "2022-04-19 12:22:26.686", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 47, "dateTime": "2022-04-19 12:22:31.457", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-04-19 14:49:06.746", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-19 14:49:10.922", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-04-19 16:32:55.965", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-19 16:33:00.562", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-04-29 16:53:29.640", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-29 16:53:33.976", "isWeb": 1, "tmpUserID": 80, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}

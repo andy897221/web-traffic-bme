@@ -1,0 +1,10 @@
+{"id": 0, "dateTime": "2021-10-27 22:37:25.152", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 22:37:29.254", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 22:37:29.505", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-10-27 22:37:32.228", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Bioprinter (SUNP CPD1)", "id": "3"}, "action": "click"}
+{"id": 4, "dateTime": "2021-10-27 22:37:32.252", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": "/info?itemID=3", "data": [], "action": "nav"}
+{"id": 5, "dateTime": "2021-10-27 22:37:32.624", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 6, "dateTime": "2021-10-27 22:37:36.349", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": "/info?itemID=3", "data": [], "action": "popping"}
+{"id": 7, "dateTime": "2021-10-27 22:37:36.434", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 8, "dateTime": "2021-10-27 22:37:38.813", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 9, "dateTime": "2021-10-27 22:37:40.710", "isWeb": 1, "tmpUserID": 30, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}

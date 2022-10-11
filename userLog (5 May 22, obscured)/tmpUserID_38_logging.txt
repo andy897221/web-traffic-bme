@@ -1,0 +1,60 @@
+{"id": 0, "dateTime": "2021-11-01 18:12:59.750", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-01 18:13:08.945", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 2, "dateTime": "2021-11-01 18:13:08.972", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/booking", "data": [], "action": "nav"}
+{"id": 3, "dateTime": "2021-11-01 18:13:09.067", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 4, "dateTime": "2021-11-01 18:13:12.996", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 8, "dateTime": "2021-11-01 18:13:41.522", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 9, "dateTime": "2021-11-01 18:13:41.523", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 10, "dateTime": "2021-11-01 18:13:46.522", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 11, "dateTime": "2021-11-01 18:13:46.523", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 12, "dateTime": "2021-11-01 18:13:51.522", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 13, "dateTime": "2021-11-01 18:13:51.522", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 14, "dateTime": "2021-11-01 18:13:54.079", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 15, "dateTime": "2021-11-01 18:13:56.522", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 16, "dateTime": "2021-11-01 18:13:56.523", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 17, "dateTime": "2021-11-01 18:14:01.524", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 18, "dateTime": "2021-11-01 18:14:01.524", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 19, "dateTime": "2021-11-01 18:14:06.524", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 20, "dateTime": "2021-11-01 18:14:06.524", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 21, "dateTime": "2021-11-01 18:14:11.525", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 22, "dateTime": "2021-11-01 18:14:11.525", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 23, "dateTime": "2021-11-01 18:14:16.525", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 24, "dateTime": "2021-11-01 18:14:16.526", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 25, "dateTime": "2021-11-01 18:14:21.526", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 26, "dateTime": "2021-11-01 18:14:21.527", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 27, "dateTime": "2021-11-01 18:14:26.528", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 28, "dateTime": "2021-11-01 18:14:26.528", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 29, "dateTime": "2021-11-01 18:14:29.081", "isWeb": 1, "tmpUserID": 38, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 30, "dateTime": "2021-11-01 18:14:29.176", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 31, "dateTime": "2021-11-01 18:14:31.530", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 32, "dateTime": "2021-11-01 18:14:31.531", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 33, "dateTime": "2021-11-01 18:14:32.079", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 34, "dateTime": "2021-11-01 18:14:43.094", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Select Equipment:"}, "action": "click"}
+{"id": 35, "dateTime": "2021-11-01 18:14:43.173", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/booking", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 36, "dateTime": "2021-11-01 18:14:50.085", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_selectBotSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 37, "dateTime": "2021-11-01 18:14:52.349", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Select Date:"}, "action": "click"}
+{"id": 38, "dateTime": "2021-11-01 18:14:54.970", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Select Time (Maximum 3 hours per day):"}, "action": "click"}
+{"id": 39, "dateTime": "2021-11-01 18:14:57.455", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Select Equipment:"}, "action": "click"}
+{"id": 40, "dateTime": "2021-11-01 18:14:57.527", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/booking", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 41, "dateTime": "2021-11-01 18:16:07.702", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "_selectBotSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 42, "dateTime": "2021-11-01 18:25:46.352", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/booking", "data": [], "action": "popping"}
+{"id": 43, "dateTime": "2021-11-01 18:25:55.826", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 44, "dateTime": "2021-11-01 18:25:55.991", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 45, "dateTime": "2021-11-01 18:26:05.856", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 46, "dateTime": "2021-11-01 18:26:07.746", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 47, "dateTime": "2021-11-01 18:26:15.829", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Vicon 370 3-dimensional motion analysis system", "id": "52"}, "action": "click"}
+{"id": 48, "dateTime": "2021-11-01 18:26:15.848", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/info?itemID=52", "data": [], "action": "nav"}
+{"id": 49, "dateTime": "2021-11-01 18:26:16.154", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 50, "dateTime": "2021-11-01 18:26:31.150", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/info?itemID=52", "data": {"type": "actionType.button", "desc": null, "text": "Check Protocol"}, "action": "click"}
+{"id": 51, "dateTime": "2021-11-01 18:26:32.690", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": null, "data": {"type": "actionType.iconButton", "desc": "protoContent", "text": "Icons.cancel", "itemID": 52}, "action": "click"}
+{"id": 52, "dateTime": "2021-11-01 18:26:34.403", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/info?itemID=52", "data": {"type": "actionType.button", "desc": null, "text": "Create New Post"}, "action": "click"}
+{"id": 53, "dateTime": "2021-11-01 18:26:34.417", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/createPost?categoryID=25&labID=3", "data": [], "action": "nav"}
+{"id": 54, "dateTime": "2021-11-01 18:26:36.397", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/createPost?categoryID=25&labID=3", "data": {"type": "actionType.dialog", "desc": null, "text": "Discard post and exit?"}, "action": "click"}
+{"id": 55, "dateTime": "2021-11-01 18:26:39.411", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/createPost?categoryID=25&labID=3", "data": {"text": "title", "desc": ""}, "action": "textInput"}
+{"id": 56, "dateTime": "2021-11-01 18:26:39.411", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/createPost?categoryID=25&labID=3", "data": {"text": "content", "desc": ""}, "action": "textInput"}
+{"id": 57, "dateTime": "2021-11-01 18:26:39.462", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/createPost?categoryID=25&labID=3", "data": {"type": "actionType.dialog", "desc": "Discard post and exit?", "text": "Yes"}, "action": "click"}
+{"id": 58, "dateTime": "2021-11-01 18:26:39.462", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/createPost?categoryID=25&labID=3", "data": [], "action": "popping"}
+{"id": 0, "dateTime": "2021-11-01 23:23:51.226", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-01 23:23:51.227", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/info?itemID=52", "data": [], "action": "nav"}
+{"id": 0, "dateTime": "2021-11-02 09:26:51.128", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-02 09:26:51.132", "isWeb": 1, "tmpUserID": 38, "userID": 5, "context": "/info?itemID=52", "data": [], "action": "nav"}

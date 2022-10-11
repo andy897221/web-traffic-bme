@@ -1,0 +1,7 @@
+{"id": 0, "dateTime": "2021-10-27 18:05:19.622", "isWeb": 1, "tmpUserID": 24, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 18:05:22.725", "isWeb": 1, "tmpUserID": 24, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 18:05:22.935", "isWeb": 1, "tmpUserID": 24, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-10-27 18:05:27.839", "isWeb": 1, "tmpUserID": 24, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 4, "dateTime": "2021-10-27 18:05:32.792", "isWeb": 1, "tmpUserID": 24, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}
+{"id": 5, "dateTime": "2021-10-27 18:06:32.025", "isWeb": 1, "tmpUserID": 24, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Contact"}, "action": "click"}
+{"id": 6, "dateTime": "2021-10-27 18:06:32.081", "isWeb": 1, "tmpUserID": 24, "userID": null, "context": "/contact", "data": [], "action": "nav"}

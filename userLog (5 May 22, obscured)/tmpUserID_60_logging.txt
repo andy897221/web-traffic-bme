@@ -1,0 +1,10 @@
+{"id": 0, "dateTime": "2022-01-14 01:42:23.981", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-14 01:42:26.108", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-01-15 16:27:34.983", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-15 16:27:37.784", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 2, "dateTime": "2022-01-15 16:28:04.847", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-01-15 17:25:47.981", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-15 17:25:49.472", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 2, "dateTime": "2022-01-15 17:39:20.698", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-01-16 19:53:21.863", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-16 19:53:24.029", "isWeb": 1, "tmpUserID": 60, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}

@@ -1,0 +1,11 @@
+{"id": 0, "dateTime": "2021-10-27 17:32:57.940", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 17:33:04.795", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Agree"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 17:33:26.193", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 3, "dateTime": "2021-10-27 17:33:26.420", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 4, "dateTime": "2021-10-27 17:33:42.972", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 5, "dateTime": "2021-10-27 17:33:50.949", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 6, "dateTime": "2021-10-27 17:33:57.659", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 7, "dateTime": "2021-10-27 17:34:00.783", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 8, "dateTime": "2021-10-27 17:34:00.796", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/booking", "data": [], "action": "nav"}
+{"id": 9, "dateTime": "2021-10-27 17:34:00.925", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 10, "dateTime": "2021-10-27 17:34:04.420", "isWeb": 1, "tmpUserID": 22, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}

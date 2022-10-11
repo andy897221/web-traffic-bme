@@ -1,0 +1,10 @@
+{"id": 0, "dateTime": "2021-11-23 15:22:14.714", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-23 15:22:21.585", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 2, "dateTime": "2021-11-23 15:22:34.013", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 3, "dateTime": "2021-11-23 15:22:34.171", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 4, "dateTime": "2021-11-23 15:22:41.195", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 5, "dateTime": "2021-11-23 15:22:43.070", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Forum"}, "action": "click"}
+{"id": 6, "dateTime": "2021-11-23 15:22:43.091", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": "/discuss", "data": [], "action": "nav"}
+{"id": 7, "dateTime": "2021-11-23 15:22:52.432", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": "/discuss", "data": [], "action": "popping"}
+{"id": 8, "dateTime": "2021-11-23 15:22:55.415", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 9, "dateTime": "2021-11-23 15:22:55.506", "isWeb": 1, "tmpUserID": 51, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}

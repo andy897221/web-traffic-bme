@@ -1,0 +1,14 @@
+{"id": 0, "dateTime": "2021-11-12 01:43:20.546", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-12 01:43:24.253", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2021-11-12 01:43:24.537", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-11-12 01:43:31.279", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/", "data": {"from": "Y506", "to": "ST414"}, "action": "changeTab"}
+{"id": 4, "dateTime": "2021-11-12 01:43:35.043", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/", "data": {"from": "ST414", "to": "Y506"}, "action": "changeTab"}
+{"id": 5, "dateTime": "2021-11-12 01:43:57.114", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 6, "dateTime": "2021-11-12 01:44:02.983", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 7, "dateTime": "2021-11-12 01:44:03.002", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/booking", "data": [], "action": "nav"}
+{"id": 8, "dateTime": "2021-11-12 01:44:03.088", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 9, "dateTime": "2021-11-12 01:44:05.216", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "popping"}
+{"id": 10, "dateTime": "2021-11-12 01:44:10.935", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}
+{"id": 11, "dateTime": "2021-11-12 01:45:16.641", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Contact"}, "action": "click"}
+{"id": 12, "dateTime": "2021-11-12 01:45:16.674", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/contact", "data": [], "action": "nav"}
+{"id": 13, "dateTime": "2021-11-12 01:45:19.156", "isWeb": 1, "tmpUserID": 48, "userID": null, "context": "/contact", "data": [], "action": "popping"}

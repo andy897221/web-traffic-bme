@@ -1,0 +1,14 @@
+{"id": 0, "dateTime": "2022-04-14 15:31:42.044", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-14 15:31:56.740", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Agree"}, "action": "click"}
+{"id": 2, "dateTime": "2022-04-14 15:32:04.122", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 3, "dateTime": "2022-04-14 15:32:04.400", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 4, "dateTime": "2022-04-14 15:32:08.826", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 5, "dateTime": "2022-04-14 15:32:08.851", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/booking", "data": [], "action": "nav"}
+{"id": 6, "dateTime": "2022-04-14 15:32:08.945", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 7, "dateTime": "2022-04-14 15:32:10.772", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 8, "dateTime": "2022-04-14 15:32:12.458", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}
+{"id": 9, "dateTime": "2022-04-14 15:32:21.918", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "My Profile"}, "action": "click"}
+{"id": 10, "dateTime": "2022-04-14 15:32:21.938", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 11, "dateTime": "2022-04-14 15:32:22.028", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 12, "dateTime": "2022-04-14 15:32:25.558", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "popping"}
+{"id": 0, "dateTime": "2022-04-14 16:42:39.942", "isWeb": 1, "tmpUserID": 71, "userID": null, "context": "/", "data": [], "action": "nav"}

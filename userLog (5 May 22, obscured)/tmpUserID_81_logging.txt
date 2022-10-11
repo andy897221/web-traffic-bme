@@ -1,0 +1,2 @@
+{"id": 0, "dateTime": "2022-04-26 14:25:43.215", "isWeb": 1, "tmpUserID": 81, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-26 14:25:47.141", "isWeb": 1, "tmpUserID": 81, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}

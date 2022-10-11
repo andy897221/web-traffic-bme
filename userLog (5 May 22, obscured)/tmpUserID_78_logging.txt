@@ -1,0 +1,10 @@
+{"id": 0, "dateTime": "2022-04-14 15:37:24.346", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-14 15:37:29.955", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 2, "dateTime": "2022-04-14 15:37:30.052", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 3, "dateTime": "2022-04-14 15:37:31.243", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 0, "dateTime": "2022-04-14 16:02:29.953", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-14 16:47:42.017", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Contact"}, "action": "click"}
+{"id": 2, "dateTime": "2022-04-14 16:47:42.083", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/contact", "data": [], "action": "nav"}
+{"id": 3, "dateTime": "2022-04-14 16:47:47.704", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/contact", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 4, "dateTime": "2022-04-14 16:47:49.100", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 5, "dateTime": "2022-04-14 16:47:50.560", "isWeb": 1, "tmpUserID": 78, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}

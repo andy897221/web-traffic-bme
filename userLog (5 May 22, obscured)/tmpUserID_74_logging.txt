@@ -1,0 +1,6 @@
+{"id": 0, "dateTime": "2022-04-14 15:33:45.747", "isWeb": 1, "tmpUserID": 74, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-14 15:33:45.753", "isWeb": 1, "tmpUserID": 75, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 2, "dateTime": "2022-04-14 15:33:50.147", "isWeb": 1, "tmpUserID": 75, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 3, "dateTime": "2022-04-14 15:33:50.148", "isWeb": 1, "tmpUserID": 75, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 4, "dateTime": "2022-04-14 15:33:55.146", "isWeb": 1, "tmpUserID": 75, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 5, "dateTime": "2022-04-14 15:33:55.147", "isWeb": 1, "tmpUserID": 75, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}

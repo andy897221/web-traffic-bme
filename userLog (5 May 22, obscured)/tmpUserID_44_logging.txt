@@ -1,0 +1,29 @@
+{"id": 0, "dateTime": "2021-11-08 17:56:22.362", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-08 17:56:25.660", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 2, "dateTime": "2021-11-08 17:56:25.725", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 3, "dateTime": "2021-11-08 17:56:29.099", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 0, "dateTime": "2021-11-08 18:03:01.670", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-08 18:03:03.721", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Agree"}, "action": "click"}
+{"id": 2, "dateTime": "2021-11-08 18:03:06.009", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 3, "dateTime": "2021-11-08 18:03:19.575", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 4, "dateTime": "2021-11-08 18:03:19.594", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/booking", "data": [], "action": "nav"}
+{"id": 5, "dateTime": "2021-11-08 18:03:19.700", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 6, "dateTime": "2021-11-08 18:03:21.982", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 7, "dateTime": "2021-11-08 18:06:08.373", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 8, "dateTime": "2021-11-08 18:07:01.676", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "My Profile"}, "action": "click"}
+{"id": 9, "dateTime": "2021-11-08 18:07:01.689", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 10, "dateTime": "2021-11-08 18:07:01.788", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 11, "dateTime": "2021-11-08 18:07:03.162", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 12, "dateTime": "2021-11-08 18:07:07.551", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 13, "dateTime": "2021-11-08 18:07:07.740", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 14, "dateTime": "2021-11-08 18:07:16.809", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 15, "dateTime": "2021-11-08 18:07:30.597", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 16, "dateTime": "2021-11-08 18:07:34.415", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"from": "ST414", "to": "Y506"}, "action": "changeTab"}
+{"id": 17, "dateTime": "2021-11-08 18:07:45.043", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 0, "dateTime": "2021-11-09 00:10:54.549", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-09 00:10:56.539", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2021-12-28 17:07:52.662", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-12-28 17:07:54.484", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 2, "dateTime": "2021-12-28 17:07:54.532", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 3, "dateTime": "2021-12-28 17:07:56.793", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 4, "dateTime": "2021-12-28 17:08:01.691", "isWeb": 1, "tmpUserID": 44, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}

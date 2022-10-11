@@ -1,0 +1,71 @@
+{"id": 0, "dateTime": "2021-10-27 05:09:47.120", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 05:11:49.349", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Other Labs"}, "action": "click"}
+{"id": 0, "dateTime": "2021-10-27 05:12:42.229", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 05:12:43.004", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 2, "dateTime": "2021-10-27 05:12:44.788", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 3, "dateTime": "2021-10-27 05:12:45.494", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 4, "dateTime": "2021-10-27 05:12:46.271", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Analytical Balance (ME204)", "id": "16"}, "action": "click"}
+{"id": 5, "dateTime": "2021-10-27 05:12:46.340", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/info?itemID=16", "data": [], "action": "nav"}
+{"id": 6, "dateTime": "2021-10-27 05:12:46.966", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 7, "dateTime": "2021-10-27 05:12:49.014", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 8, "dateTime": "2021-10-27 05:12:49.249", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 9, "dateTime": "2021-10-27 05:12:49.579", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 10, "dateTime": "2021-10-27 05:12:49.789", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 11, "dateTime": "2021-10-27 05:12:50.551", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/info?itemID=16", "data": {"type": "actionType.iconButton", "desc": "endDrawer", "text": "Icons.menu", "itemID": 16}, "action": "click"}
+{"id": 12, "dateTime": "2021-10-27 05:12:55.813", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 13, "dateTime": "2021-10-27 05:12:56.130", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 0, "dateTime": "2021-10-27 05:13:31.788", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 05:13:32.496", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 2, "dateTime": "2021-10-27 05:13:33.510", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 3, "dateTime": "2021-10-27 05:13:34.090", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 4, "dateTime": "2021-10-27 05:13:34.733", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Analytical Balance (ME204)", "id": "16"}, "action": "click"}
+{"id": 5, "dateTime": "2021-10-27 05:13:34.773", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/info?itemID=16", "data": [], "action": "nav"}
+{"id": 6, "dateTime": "2021-10-27 05:13:35.246", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 7, "dateTime": "2021-10-27 05:13:36.806", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 8, "dateTime": "2021-10-27 05:13:37.030", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 9, "dateTime": "2021-10-27 05:13:37.856", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/info?itemID=16", "data": {"type": "actionType.iconButton", "desc": "endDrawer", "text": "Icons.menu", "itemID": 16}, "action": "click"}
+{"id": 10, "dateTime": "2021-10-27 05:13:39.566", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/info?itemID=16", "data": {"type": "actionType.button", "desc": "endDrawer", "text": "Lab Access Guide"}, "action": "click"}
+{"id": 11, "dateTime": "2021-10-27 05:13:42.226", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/info?itemID=16", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 16}, "action": "click"}
+{"id": 12, "dateTime": "2021-10-27 05:13:42.458", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 13, "dateTime": "2021-10-27 05:15:33.180", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Forum"}, "action": "click"}
+{"id": 14, "dateTime": "2021-10-27 05:15:33.209", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/discuss", "data": [], "action": "nav"}
+{"id": 15, "dateTime": "2021-10-27 05:15:34.082", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/discuss", "data": {"type": "actionType.button", "desc": "threadCard", "text": "Laboratories of the PolyU BME Database", "postID": "2"}, "action": "click"}
+{"id": 16, "dateTime": "2021-10-27 05:15:34.103", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/post?postID=2", "data": [], "action": "nav"}
+{"id": 17, "dateTime": "2021-10-27 05:15:36.011", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/post?postID=2", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "postID": 2}, "action": "click"}
+{"id": 18, "dateTime": "2021-10-27 05:15:36.627", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/discuss", "data": {"type": "actionType.button", "desc": "threadCard", "text": "Welcome to the forum of BME Student Database", "postID": "1"}, "action": "click"}
+{"id": 19, "dateTime": "2021-10-27 05:15:36.649", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/post?postID=1", "data": [], "action": "nav"}
+{"id": 20, "dateTime": "2021-10-27 05:15:42.192", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/post?postID=1", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "postID": 1}, "action": "click"}
+{"id": 21, "dateTime": "2021-10-27 05:15:43.191", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/discuss", "data": {"type": "actionType.button", "desc": "threadCard", "text": "Laboratories of the PolyU BME Database", "postID": "2"}, "action": "click"}
+{"id": 22, "dateTime": "2021-10-27 05:15:43.213", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/post?postID=2", "data": [], "action": "nav"}
+{"id": 23, "dateTime": "2021-10-27 05:15:55.873", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/post?postID=2", "data": {"selectedText": ""}, "action": "textSelected"}
+{"id": 24, "dateTime": "2021-10-27 05:20:37.951", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/post?postID=2", "data": {"selectedText": ""}, "action": "textSelected"}
+{"id": 25, "dateTime": "2021-10-27 06:15:42.952", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/post?postID=2", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "postID": 2}, "action": "click"}
+{"id": 26, "dateTime": "2021-10-27 06:15:44.352", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/discuss", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 0, "dateTime": "2021-10-27 14:57:54.567", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 14:58:09.772", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 14:58:09.886", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 3, "dateTime": "2021-10-27 14:58:14.236", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 4, "dateTime": "2021-10-27 14:58:14.797", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 5, "dateTime": "2021-10-27 14:58:14.797", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 6, "dateTime": "2021-10-27 14:58:19.797", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 7, "dateTime": "2021-10-27 14:58:19.797", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 8, "dateTime": "2021-10-27 14:58:24.797", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 9, "dateTime": "2021-10-27 14:58:24.797", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 10, "dateTime": "2021-10-27 14:58:29.797", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 11, "dateTime": "2021-10-27 14:58:29.797", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 12, "dateTime": "2021-10-27 14:58:35.179", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 13, "dateTime": "2021-10-27 14:58:35.179", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 14, "dateTime": "2021-10-27 14:58:39.798", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 15, "dateTime": "2021-10-27 14:58:39.798", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 16, "dateTime": "2021-10-27 14:58:41.506", "isWeb": 1, "tmpUserID": 5, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 17, "dateTime": "2021-10-27 14:58:41.822", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 18, "dateTime": "2021-10-27 14:58:44.799", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 19, "dateTime": "2021-10-27 14:58:44.799", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 20, "dateTime": "2021-10-27 14:58:47.008", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 21, "dateTime": "2021-10-27 14:58:51.913", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 22, "dateTime": "2021-10-27 14:58:52.356", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 0, "dateTime": "2022-01-06 14:38:46.519", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-06 14:38:49.720", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2022-01-06 14:38:50.007", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2022-01-06 14:38:58.144", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 4, "dateTime": "2022-01-06 14:38:58.494", "isWeb": 1, "tmpUserID": 5, "userID": 3, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}

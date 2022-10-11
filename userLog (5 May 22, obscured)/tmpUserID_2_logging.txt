@@ -1,0 +1,6 @@
+{"id": 0, "dateTime": "2021-10-27 14:44:21.664", "isWeb": 1, "tmpUserID": 2, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 14:44:24.243", "isWeb": 1, "tmpUserID": 2, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 14:45:41.175", "isWeb": 1, "tmpUserID": 2, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2021-10-27 15:30:03.369", "isWeb": 1, "tmpUserID": 2, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 15:30:13.963", "isWeb": 1, "tmpUserID": 2, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 15:41:18.757", "isWeb": 1, "tmpUserID": 2, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}

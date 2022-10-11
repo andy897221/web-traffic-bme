@@ -1,0 +1,59 @@
+{"id": 0, "dateTime": "2021-10-29 19:09:03.924", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-29 19:09:09.232", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-29 19:09:09.300", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 3, "dateTime": "2021-10-29 19:09:14.245", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 4, "dateTime": "2021-10-29 19:09:14.245", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 5, "dateTime": "2021-10-29 19:09:19.252", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 6, "dateTime": "2021-10-29 19:09:19.252", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 7, "dateTime": "2021-10-29 19:09:24.244", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 8, "dateTime": "2021-10-29 19:09:24.245", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 9, "dateTime": "2021-10-29 19:09:29.257", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 10, "dateTime": "2021-10-29 19:09:29.257", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 11, "dateTime": "2021-10-29 19:09:34.240", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 12, "dateTime": "2021-10-29 19:09:34.240", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 13, "dateTime": "2021-10-29 19:09:34.892", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 14, "dateTime": "2021-10-29 19:09:39.255", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 15, "dateTime": "2021-10-29 19:09:39.255", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 16, "dateTime": "2021-10-29 19:09:44.252", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 17, "dateTime": "2021-10-29 19:09:44.252", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 18, "dateTime": "2021-10-29 19:09:49.583", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 19, "dateTime": "2021-10-29 19:09:49.583", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 20, "dateTime": "2021-10-29 19:09:54.576", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 21, "dateTime": "2021-10-29 19:09:54.576", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 22, "dateTime": "2021-10-29 19:09:59.585", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 23, "dateTime": "2021-10-29 19:09:59.585", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 24, "dateTime": "2021-10-29 19:10:04.243", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 25, "dateTime": "2021-10-29 19:10:04.243", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 26, "dateTime": "2021-10-29 19:10:09.248", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 27, "dateTime": "2021-10-29 19:10:09.248", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 28, "dateTime": "2021-10-29 19:10:14.243", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 29, "dateTime": "2021-10-29 19:10:14.243", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 30, "dateTime": "2021-10-29 19:10:18.838", "isWeb": 1, "tmpUserID": 37, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 31, "dateTime": "2021-10-29 19:10:18.954", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 32, "dateTime": "2021-10-29 19:10:19.240", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 33, "dateTime": "2021-10-29 19:10:19.240", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 34, "dateTime": "2021-10-29 19:10:22.355", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 35, "dateTime": "2021-10-29 19:10:47.403", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 36, "dateTime": "2021-10-29 19:10:47.657", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 37, "dateTime": "2021-10-29 19:11:11.798", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 38, "dateTime": "2021-10-29 19:11:19.628", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 39, "dateTime": "2021-10-29 19:11:22.793", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Forum"}, "action": "click"}
+{"id": 40, "dateTime": "2021-10-29 19:11:22.820", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/discuss", "data": [], "action": "nav"}
+{"id": 41, "dateTime": "2021-10-29 19:11:29.860", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/discuss", "data": {"type": "actionType.button", "desc": "threadCard", "text": "Welcome to the forum of BME Student Database", "postID": "1"}, "action": "click"}
+{"id": 42, "dateTime": "2021-10-29 19:11:29.884", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/post?postID=1", "data": [], "action": "nav"}
+{"id": 43, "dateTime": "2021-10-29 19:11:44.263", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 44, "dateTime": "2021-10-29 19:11:48.967", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 45, "dateTime": "2021-10-29 19:11:48.967", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 46, "dateTime": "2021-10-29 19:11:50.378", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textfieldFocus"}
+{"id": 47, "dateTime": "2021-10-29 19:12:12.033", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textfieldFocus"}
+{"id": 48, "dateTime": "2021-10-29 19:12:15.619", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 49, "dateTime": "2021-10-29 19:12:15.619", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 50, "dateTime": "2021-10-29 19:12:17.859", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 51, "dateTime": "2021-10-29 19:12:17.945", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": null, "data": {"type": "actionType.notifyDialog", "desc": null, "text": "Username changed successfully."}, "action": "click"}
+{"id": 52, "dateTime": "2021-10-29 19:12:19.810", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": null, "data": {"type": "actionType.notifyDialog", "desc": "Username changed successfully.", "text": "Okay"}, "action": "click"}
+{"id": 53, "dateTime": "2021-10-29 19:12:22.966", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 54, "dateTime": "2021-10-29 19:12:31.221", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/post?postID=1", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "postID": 1}, "action": "click"}
+{"id": 55, "dateTime": "2021-10-29 19:12:33.875", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/discuss", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 56, "dateTime": "2021-10-29 19:12:36.811", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 57, "dateTime": "2021-10-29 19:12:36.838", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/booking", "data": [], "action": "nav"}
+{"id": 58, "dateTime": "2021-10-29 19:12:42.933", "isWeb": 1, "tmpUserID": 37, "userID": 7, "context": "/booking", "data": {"type": "actionType.iconButton", "desc": null, "text": "Icons.arrow_back"}, "action": "click"}

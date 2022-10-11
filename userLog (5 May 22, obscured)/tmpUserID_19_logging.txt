@@ -1,0 +1,13 @@
+{"id": 0, "dateTime": "2021-10-27 17:00:48.285", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 17:01:02.735", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 17:01:03.235", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-10-27 17:01:18.304", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 4, "dateTime": "2021-10-27 17:01:25.268", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Licensed IDEs (Matlab; VS Studio)", "id": "23"}, "action": "click"}
+{"id": 5, "dateTime": "2021-10-27 17:01:25.295", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/info?itemID=23", "data": [], "action": "nav"}
+{"id": 6, "dateTime": "2021-10-27 17:01:25.647", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 7, "dateTime": "2021-10-27 17:01:28.724", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/info?itemID=23", "data": {"type": "actionType.button", "desc": null, "text": "Check Protocol"}, "action": "click"}
+{"id": 8, "dateTime": "2021-10-27 17:01:41.203", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/info?itemID=23", "data": {"selectedText": ""}, "action": "textSelected"}
+{"id": 9, "dateTime": "2021-10-27 17:01:41.986", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 10, "dateTime": "2021-10-27 17:01:44.534", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 11, "dateTime": "2021-10-27 17:01:44.845", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 12, "dateTime": "2021-10-27 17:01:46.456", "isWeb": 1, "tmpUserID": 19, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}

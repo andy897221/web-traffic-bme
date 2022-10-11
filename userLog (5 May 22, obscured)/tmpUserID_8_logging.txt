@@ -1,0 +1,13 @@
+{"id": 0, "dateTime": "2021-10-27 16:09:06.988", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 0, "dateTime": "2021-10-27 16:10:45.007", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 16:10:51.775", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 16:10:51.971", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-10-27 16:10:55.269", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}
+{"id": 4, "dateTime": "2021-10-27 16:11:18.134", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 5, "dateTime": "2021-10-27 16:11:18.413", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 6, "dateTime": "2021-10-27 16:11:25.071", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Alkaline Phosphatase Assay", "id": "33"}, "action": "click"}
+{"id": 7, "dateTime": "2021-10-27 16:11:25.086", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/info?itemID=33", "data": [], "action": "nav"}
+{"id": 8, "dateTime": "2021-10-27 16:11:25.421", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 9, "dateTime": "2021-10-27 16:11:29.272", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/info?itemID=33", "data": [], "action": "popping"}
+{"id": 10, "dateTime": "2021-10-27 16:11:29.489", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 11, "dateTime": "2021-10-27 16:11:34.113", "isWeb": 1, "tmpUserID": 8, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}

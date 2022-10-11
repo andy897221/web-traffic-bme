@@ -1,0 +1,279 @@
+{"id": 0, "dateTime": "2022-04-14 04:14:58.534", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-14 04:15:02.286", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Contact"}, "action": "click"}
+{"id": 2, "dateTime": "2022-04-14 04:15:02.318", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/contact", "data": [], "action": "nav"}
+{"id": 3, "dateTime": "2022-04-14 04:15:06.378", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/contact", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back"}, "action": "click"}
+{"id": 4, "dateTime": "2022-04-14 04:15:08.833", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}
+{"id": 5, "dateTime": "2022-04-14 04:15:12.508", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "My Profile"}, "action": "click"}
+{"id": 6, "dateTime": "2022-04-14 04:15:12.517", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 7, "dateTime": "2022-04-14 04:15:12.618", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 8, "dateTime": "2022-04-14 04:15:13.798", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 9, "dateTime": "2022-04-14 04:15:17.184", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 10, "dateTime": "2022-04-14 04:15:19.989", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 11, "dateTime": "2022-04-14 04:15:19.997", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/booking", "data": [], "action": "nav"}
+{"id": 12, "dateTime": "2022-04-14 04:15:20.079", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 13, "dateTime": "2022-04-14 04:15:21.241", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 14, "dateTime": "2022-04-14 04:15:22.879", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 15, "dateTime": "2022-04-14 04:15:23.026", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 16, "dateTime": "2022-04-14 04:39:41.783", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Agree"}, "action": "click"}
+{"id": 17, "dateTime": "2022-04-14 04:41:36.102", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 0, "dateTime": "2022-04-14 04:43:11.217", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-14 04:58:14.985", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2022-04-14 04:58:15.179", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2022-04-14 04:58:23.699", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Bioprinter (SUNP CPD1)", "id": "3"}, "action": "click"}
+{"id": 4, "dateTime": "2022-04-14 04:58:23.718", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=3", "data": [], "action": "nav"}
+{"id": 5, "dateTime": "2022-04-14 04:58:24.082", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 6, "dateTime": "2022-04-14 04:58:27.789", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 7, "dateTime": "2022-04-14 04:58:27.853", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 8, "dateTime": "2022-04-14 04:58:27.903", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 9, "dateTime": "2022-04-14 04:58:27.955", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 10, "dateTime": "2022-04-14 04:58:28.012", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 11, "dateTime": "2022-04-14 04:58:28.065", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 12, "dateTime": "2022-04-14 04:58:28.120", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 13, "dateTime": "2022-04-14 04:58:28.180", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 14, "dateTime": "2022-04-14 04:58:28.321", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 15, "dateTime": "2022-04-14 04:58:28.382", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 16, "dateTime": "2022-04-14 04:58:28.434", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 17, "dateTime": "2022-04-14 04:58:28.478", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 18, "dateTime": "2022-04-14 04:58:28.709", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 19, "dateTime": "2022-04-14 04:58:28.773", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 20, "dateTime": "2022-04-14 04:58:28.824", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 21, "dateTime": "2022-04-14 04:58:28.881", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 22, "dateTime": "2022-04-14 04:58:28.928", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 23, "dateTime": "2022-04-14 04:58:28.973", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 24, "dateTime": "2022-04-14 04:58:29.603", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 25, "dateTime": "2022-04-14 04:58:29.657", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 26, "dateTime": "2022-04-14 04:58:48.249", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 27, "dateTime": "2022-04-14 04:59:07.177", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 28, "dateTime": "2022-04-14 04:59:07.448", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 29, "dateTime": "2022-04-14 05:04:43.951", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 30, "dateTime": "2022-04-14 05:04:44.176", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 31, "dateTime": "2022-04-14 05:04:45.048", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=3", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 3}, "action": "click"}
+{"id": 32, "dateTime": "2022-04-14 05:04:45.125", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 33, "dateTime": "2022-04-14 05:04:46.647", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 34, "dateTime": "2022-04-14 05:04:46.777", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 35, "dateTime": "2022-04-14 05:06:17.570", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Picogreen Standard Curve", "id": "35"}, "action": "click"}
+{"id": 36, "dateTime": "2022-04-14 05:06:17.580", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=35", "data": [], "action": "nav"}
+{"id": 37, "dateTime": "2022-04-14 05:06:17.901", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 38, "dateTime": "2022-04-14 05:06:18.472", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=35", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 35}, "action": "click"}
+{"id": 39, "dateTime": "2022-04-14 05:06:18.509", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 40, "dateTime": "2022-04-14 05:06:20.450", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Osteogenesis Assay", "id": "32"}, "action": "click"}
+{"id": 41, "dateTime": "2022-04-14 05:06:20.458", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=32", "data": [], "action": "nav"}
+{"id": 42, "dateTime": "2022-04-14 05:06:20.764", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 43, "dateTime": "2022-04-14 05:06:22.189", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=32", "data": {"type": "actionType.button", "desc": "protoPage", "text": "Osteogenesis Assay.pdf", "url": "./resources/Osteogenesis Assay.pdf"}, "action": "click"}
+{"id": 44, "dateTime": "2022-04-14 05:08:43.077", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=32", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 32}, "action": "click"}
+{"id": 45, "dateTime": "2022-04-14 05:08:43.114", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 46, "dateTime": "2022-04-14 05:08:46.218", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Lab Access Guide"}, "action": "click"}
+{"id": 47, "dateTime": "2022-04-14 05:15:11.616", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 48, "dateTime": "2022-04-14 05:58:35.346", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 49, "dateTime": "2022-04-14 05:58:35.514", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 50, "dateTime": "2022-04-14 06:01:12.158", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 51, "dateTime": "2022-04-14 06:01:12.317", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 52, "dateTime": "2022-04-14 06:01:14.994", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 53, "dateTime": "2022-04-14 06:01:15.132", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 54, "dateTime": "2022-04-14 06:01:45.124", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Cell Area Calculations", "id": "49"}, "action": "click"}
+{"id": 55, "dateTime": "2022-04-14 06:01:45.133", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=49", "data": [], "action": "nav"}
+{"id": 56, "dateTime": "2022-04-14 06:01:45.433", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 57, "dateTime": "2022-04-14 06:01:46.252", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=49", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 49}, "action": "click"}
+{"id": 58, "dateTime": "2022-04-14 06:01:46.279", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 59, "dateTime": "2022-04-14 06:04:50.697", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Osteogenesis Assay", "id": "32"}, "action": "click"}
+{"id": 60, "dateTime": "2022-04-14 06:04:50.706", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=32", "data": [], "action": "nav"}
+{"id": 61, "dateTime": "2022-04-14 06:04:51.006", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 62, "dateTime": "2022-04-14 06:04:53.215", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=32", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 32}, "action": "click"}
+{"id": 63, "dateTime": "2022-04-14 06:04:53.249", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 64, "dateTime": "2022-04-14 06:04:57.842", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Cell Area Calculations", "id": "49"}, "action": "click"}
+{"id": 65, "dateTime": "2022-04-14 06:04:57.863", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=49", "data": [], "action": "nav"}
+{"id": 66, "dateTime": "2022-04-14 06:04:58.189", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 67, "dateTime": "2022-04-14 06:05:00.470", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=49", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 49}, "action": "click"}
+{"id": 68, "dateTime": "2022-04-14 06:05:00.502", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 69, "dateTime": "2022-04-14 06:05:05.626", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "TEM Imaging", "id": "31"}, "action": "click"}
+{"id": 70, "dateTime": "2022-04-14 06:05:05.635", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=31", "data": [], "action": "nav"}
+{"id": 71, "dateTime": "2022-04-14 06:05:05.926", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 72, "dateTime": "2022-04-14 06:05:06.688", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=31", "data": {"type": "actionType.button", "desc": "protoPage", "text": "TEM imaging.pdf", "url": "./resources/TEM imaging.pdf"}, "action": "click"}
+{"id": 73, "dateTime": "2022-04-14 06:05:14.527", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=31", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 31}, "action": "click"}
+{"id": 74, "dateTime": "2022-04-14 06:05:14.565", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 75, "dateTime": "2022-04-14 06:05:24.776", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Cell viability and image merging", "id": "51"}, "action": "click"}
+{"id": 76, "dateTime": "2022-04-14 06:05:24.785", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=51", "data": [], "action": "nav"}
+{"id": 77, "dateTime": "2022-04-14 06:05:25.081", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 78, "dateTime": "2022-04-14 06:05:25.910", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=51", "data": {"type": "actionType.button", "desc": "protoPage", "text": "ImageJ viability and image merging.pdf", "url": "./resources/ImageJ viability and image merging.pdf"}, "action": "click"}
+{"id": 79, "dateTime": "2022-04-14 06:05:28.379", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=51", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 51}, "action": "click"}
+{"id": 80, "dateTime": "2022-04-14 06:05:28.417", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 81, "dateTime": "2022-04-14 06:05:41.097", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Alcain Blue Staining", "id": "30"}, "action": "click"}
+{"id": 82, "dateTime": "2022-04-14 06:05:41.106", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=30", "data": [], "action": "nav"}
+{"id": 83, "dateTime": "2022-04-14 06:05:41.407", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 84, "dateTime": "2022-04-14 06:05:42.316", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=30", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 30}, "action": "click"}
+{"id": 85, "dateTime": "2022-04-14 06:05:42.348", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 86, "dateTime": "2022-04-14 06:05:43.508", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Actin DAPI Staining", "id": "29"}, "action": "click"}
+{"id": 87, "dateTime": "2022-04-14 06:05:43.516", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=29", "data": [], "action": "nav"}
+{"id": 88, "dateTime": "2022-04-14 06:05:43.839", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 89, "dateTime": "2022-04-14 06:05:45.173", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=29", "data": {"type": "actionType.button", "desc": "protoPage", "text": "Actin-DAPI.pdf", "url": "./resources/Actin-DAPI.pdf"}, "action": "click"}
+{"id": 90, "dateTime": "2022-04-14 06:05:52.061", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 91, "dateTime": "2022-04-14 06:05:52.100", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 92, "dateTime": "2022-04-14 06:05:52.155", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 93, "dateTime": "2022-04-14 06:05:52.202", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 94, "dateTime": "2022-04-14 06:05:52.255", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 95, "dateTime": "2022-04-14 06:05:52.299", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 96, "dateTime": "2022-04-14 06:05:52.334", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 97, "dateTime": "2022-04-14 06:05:52.370", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 98, "dateTime": "2022-04-14 06:05:52.521", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 99, "dateTime": "2022-04-14 06:05:52.563", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 100, "dateTime": "2022-04-14 06:05:52.643", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 101, "dateTime": "2022-04-14 06:05:52.686", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 102, "dateTime": "2022-04-14 06:05:52.734", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 103, "dateTime": "2022-04-14 06:05:52.772", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 104, "dateTime": "2022-04-14 06:05:52.814", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 105, "dateTime": "2022-04-14 06:05:52.848", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 106, "dateTime": "2022-04-14 06:05:53.197", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 107, "dateTime": "2022-04-14 06:05:53.244", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 108, "dateTime": "2022-04-14 06:05:53.284", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 109, "dateTime": "2022-04-14 06:05:53.322", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 110, "dateTime": "2022-04-14 06:05:53.366", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 111, "dateTime": "2022-04-14 06:05:53.414", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 112, "dateTime": "2022-04-14 06:05:53.686", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 113, "dateTime": "2022-04-14 06:05:53.732", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 114, "dateTime": "2022-04-14 06:05:53.777", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 115, "dateTime": "2022-04-14 06:05:53.883", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 116, "dateTime": "2022-04-14 06:05:53.922", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 117, "dateTime": "2022-04-14 06:05:53.963", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 118, "dateTime": "2022-04-14 06:05:53.997", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 119, "dateTime": "2022-04-14 06:05:54.094", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 120, "dateTime": "2022-04-14 06:05:54.138", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 121, "dateTime": "2022-04-14 06:05:54.886", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 122, "dateTime": "2022-04-14 06:05:54.931", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 123, "dateTime": "2022-04-14 06:05:54.969", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 124, "dateTime": "2022-04-14 06:05:55.016", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 125, "dateTime": "2022-04-14 06:05:55.060", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 126, "dateTime": "2022-04-14 06:05:55.150", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 127, "dateTime": "2022-04-14 06:05:55.187", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 128, "dateTime": "2022-04-14 06:05:55.232", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 129, "dateTime": "2022-04-14 06:05:55.626", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 130, "dateTime": "2022-04-14 06:05:55.663", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 131, "dateTime": "2022-04-14 06:05:55.699", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 132, "dateTime": "2022-04-14 06:05:55.738", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 133, "dateTime": "2022-04-14 06:05:55.781", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 134, "dateTime": "2022-04-14 06:05:55.816", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 135, "dateTime": "2022-04-14 06:05:55.928", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 136, "dateTime": "2022-04-14 06:05:55.962", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 137, "dateTime": "2022-04-14 06:05:56.226", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 138, "dateTime": "2022-04-14 06:05:56.276", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 139, "dateTime": "2022-04-14 06:05:56.315", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 140, "dateTime": "2022-04-14 06:05:56.354", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 141, "dateTime": "2022-04-14 06:05:56.400", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 142, "dateTime": "2022-04-14 06:05:56.680", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 143, "dateTime": "2022-04-14 06:05:56.714", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 144, "dateTime": "2022-04-14 06:05:56.753", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 145, "dateTime": "2022-04-14 06:05:56.797", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 146, "dateTime": "2022-04-14 06:05:56.837", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 147, "dateTime": "2022-04-14 06:05:56.879", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 148, "dateTime": "2022-04-14 06:05:56.928", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 149, "dateTime": "2022-04-14 06:05:56.997", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 150, "dateTime": "2022-04-14 06:05:57.031", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 151, "dateTime": "2022-04-14 06:05:57.079", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 152, "dateTime": "2022-04-14 06:05:57.191", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 153, "dateTime": "2022-04-14 06:05:57.267", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 154, "dateTime": "2022-04-14 06:05:57.302", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 155, "dateTime": "2022-04-14 06:05:57.337", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 156, "dateTime": "2022-04-14 06:05:57.379", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 157, "dateTime": "2022-04-14 06:05:57.712", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 158, "dateTime": "2022-04-14 06:05:57.760", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 159, "dateTime": "2022-04-14 06:05:57.812", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 160, "dateTime": "2022-04-14 06:05:57.862", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 161, "dateTime": "2022-04-14 06:05:57.957", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 162, "dateTime": "2022-04-14 06:05:58.007", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 163, "dateTime": "2022-04-14 06:05:58.050", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 164, "dateTime": "2022-04-14 06:05:58.090", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 165, "dateTime": "2022-04-14 06:05:58.131", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 166, "dateTime": "2022-04-14 06:05:58.165", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 167, "dateTime": "2022-04-14 06:05:58.252", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 168, "dateTime": "2022-04-14 06:05:58.586", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 169, "dateTime": "2022-04-14 06:05:58.631", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 170, "dateTime": "2022-04-14 06:05:58.698", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 171, "dateTime": "2022-04-14 06:06:42.528", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 172, "dateTime": "2022-04-14 06:06:42.579", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 173, "dateTime": "2022-04-14 06:06:42.621", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 174, "dateTime": "2022-04-14 06:06:42.665", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 175, "dateTime": "2022-04-14 06:06:42.711", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 176, "dateTime": "2022-04-14 06:06:42.790", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 177, "dateTime": "2022-04-14 06:06:42.828", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 178, "dateTime": "2022-04-14 06:06:42.862", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 179, "dateTime": "2022-04-14 06:06:42.912", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 180, "dateTime": "2022-04-14 06:06:43.146", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 181, "dateTime": "2022-04-14 06:06:43.183", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 182, "dateTime": "2022-04-14 06:06:43.215", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 183, "dateTime": "2022-04-14 06:06:43.257", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 184, "dateTime": "2022-04-14 06:06:43.301", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 185, "dateTime": "2022-04-14 06:06:43.333", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 186, "dateTime": "2022-04-14 06:06:43.366", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 187, "dateTime": "2022-04-14 06:06:43.612", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 188, "dateTime": "2022-04-14 06:06:43.646", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 189, "dateTime": "2022-04-14 06:06:43.682", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 190, "dateTime": "2022-04-14 06:06:43.728", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 191, "dateTime": "2022-04-14 06:06:44.220", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 192, "dateTime": "2022-04-14 06:06:44.289", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 193, "dateTime": "2022-04-14 06:06:44.333", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 194, "dateTime": "2022-04-14 06:06:44.488", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 195, "dateTime": "2022-04-14 06:06:44.535", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 196, "dateTime": "2022-04-14 06:06:44.613", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 197, "dateTime": "2022-04-14 06:06:44.646", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 198, "dateTime": "2022-04-14 06:08:10.547", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=29", "data": {"type": "actionType.button", "desc": "protoPage", "text": "Actin-DAPI.pdf", "url": "./resources/Actin-DAPI.pdf"}, "action": "click"}
+{"id": 199, "dateTime": "2022-04-14 06:10:03.250", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=29", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 29}, "action": "click"}
+{"id": 200, "dateTime": "2022-04-14 06:10:03.295", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 201, "dateTime": "2022-04-14 06:10:06.304", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 202, "dateTime": "2022-04-14 06:10:06.448", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 203, "dateTime": "2022-04-14 06:10:35.360", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 204, "dateTime": "2022-04-14 06:10:36.963", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 205, "dateTime": "2022-04-14 06:10:37.962", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 206, "dateTime": "2022-04-14 06:12:08.451", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Centrifuge (NUWIND)", "id": "5"}, "action": "click"}
+{"id": 207, "dateTime": "2022-04-14 06:12:08.460", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=5", "data": [], "action": "nav"}
+{"id": 208, "dateTime": "2022-04-14 06:12:08.758", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 209, "dateTime": "2022-04-14 06:12:09.990", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=5", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 5}, "action": "click"}
+{"id": 210, "dateTime": "2022-04-14 06:12:10.022", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 211, "dateTime": "2022-04-14 06:12:14.087", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Microplate Reader (Synergy)", "id": "18"}, "action": "click"}
+{"id": 212, "dateTime": "2022-04-14 06:12:14.095", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=18", "data": [], "action": "nav"}
+{"id": 213, "dateTime": "2022-04-14 06:12:14.392", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 214, "dateTime": "2022-04-14 06:12:16.899", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 215, "dateTime": "2022-04-14 06:12:16.941", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 216, "dateTime": "2022-04-14 06:12:16.985", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 217, "dateTime": "2022-04-14 06:12:17.034", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 218, "dateTime": "2022-04-14 06:12:17.172", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 219, "dateTime": "2022-04-14 06:12:17.305", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 220, "dateTime": "2022-04-14 06:12:17.333", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 221, "dateTime": "2022-04-14 06:12:17.368", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 222, "dateTime": "2022-04-14 06:12:17.434", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 223, "dateTime": "2022-04-14 06:12:17.472", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 224, "dateTime": "2022-04-14 06:12:17.516", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 225, "dateTime": "2022-04-14 06:12:17.553", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 226, "dateTime": "2022-04-14 06:12:17.587", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 227, "dateTime": "2022-04-14 06:12:17.666", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 228, "dateTime": "2022-04-14 06:12:17.701", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 229, "dateTime": "2022-04-14 06:12:17.734", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 230, "dateTime": "2022-04-14 06:12:17.789", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 231, "dateTime": "2022-04-14 06:12:17.919", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 232, "dateTime": "2022-04-14 06:12:17.954", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 233, "dateTime": "2022-04-14 06:12:17.990", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 234, "dateTime": "2022-04-14 06:12:18.035", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 235, "dateTime": "2022-04-14 06:12:18.068", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 236, "dateTime": "2022-04-14 06:12:18.467", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 237, "dateTime": "2022-04-14 06:12:18.503", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 238, "dateTime": "2022-04-14 06:12:18.539", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 239, "dateTime": "2022-04-14 06:12:18.587", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 240, "dateTime": "2022-04-14 06:12:18.835", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 241, "dateTime": "2022-04-14 06:12:18.869", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 242, "dateTime": "2022-04-14 06:12:18.938", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 243, "dateTime": "2022-04-14 06:12:18.970", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 244, "dateTime": "2022-04-14 06:12:19.017", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 245, "dateTime": "2022-04-14 06:12:19.057", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 246, "dateTime": "2022-04-14 06:12:19.600", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 247, "dateTime": "2022-04-14 06:12:19.640", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 248, "dateTime": "2022-04-14 06:12:19.681", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 249, "dateTime": "2022-04-14 06:12:19.713", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 250, "dateTime": "2022-04-14 06:12:19.749", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 251, "dateTime": "2022-04-14 06:12:19.780", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 252, "dateTime": "2022-04-14 06:12:21.717", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=18", "data": {"type": "actionType.button", "desc": null, "text": "Check Protocol"}, "action": "click"}
+{"id": 253, "dateTime": "2022-04-14 06:12:21.999", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": null, "data": {"selectedText": ""}, "action": "textSelected"}
+{"id": 254, "dateTime": "2022-04-14 06:12:23.104", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "protoContent", "text": "Icons.cancel", "itemID": 18}, "action": "click"}
+{"id": 255, "dateTime": "2022-04-14 06:12:40.608", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=18", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 18}, "action": "click"}
+{"id": 256, "dateTime": "2022-04-14 06:12:40.654", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 257, "dateTime": "2022-04-14 06:12:43.876", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Analytical Balance (ME204)", "id": "16"}, "action": "click"}
+{"id": 258, "dateTime": "2022-04-14 06:12:43.887", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=16", "data": [], "action": "nav"}
+{"id": 259, "dateTime": "2022-04-14 06:12:44.192", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 260, "dateTime": "2022-04-14 06:12:44.671", "isWeb": 1, "tmpUserID": 52, "userID": null, "context": "/info?itemID=16", "data": {"type": "actionType.button", "desc": null, "text": "Check Protocol"}, "action": "click"}

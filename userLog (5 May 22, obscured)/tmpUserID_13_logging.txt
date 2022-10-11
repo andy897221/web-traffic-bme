@@ -1,0 +1,38 @@
+{"id": 0, "dateTime": "2021-10-27 16:11:38.412", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 16:11:52.934", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 16:11:53.124", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-10-27 16:12:09.838", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Osteogenesis Assay", "id": "32"}, "action": "click"}
+{"id": 4, "dateTime": "2021-10-27 16:12:09.859", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/info?itemID=32", "data": [], "action": "nav"}
+{"id": 5, "dateTime": "2021-10-27 16:12:10.188", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 6, "dateTime": "2021-10-27 16:12:47.763", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/info?itemID=32", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 32}, "action": "click"}
+{"id": 7, "dateTime": "2021-10-27 16:12:47.825", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 0, "dateTime": "2021-10-27 16:15:58.438", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 16:16:00.014", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 16:16:00.202", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-10-27 16:16:05.004", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 4, "dateTime": "2021-10-27 16:16:07.231", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 5, "dateTime": "2021-10-27 16:16:09.911", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"from": "ST414", "to": "GH198"}, "action": "changeTab"}
+{"id": 6, "dateTime": "2021-10-27 16:16:15.341", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"from": "GH198", "to": "Y506"}, "action": "changeTab"}
+{"id": 7, "dateTime": "2021-10-27 16:16:18.381", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"from": "Y506", "to": "ST414"}, "action": "changeTab"}
+{"id": 8, "dateTime": "2021-10-27 16:16:19.500", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": null, "data": {"type": "actionType.button", "desc": null, "text": "Z to A"}, "action": "click"}
+{"id": 9, "dateTime": "2021-10-27 16:16:21.857", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": null, "data": {"type": "actionType.button", "desc": null, "text": "A to Z"}, "action": "click"}
+{"id": 10, "dateTime": "2021-10-27 16:16:22.492", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": null, "data": {"type": "actionType.button", "desc": null, "text": "A to Z"}, "action": "click"}
+{"id": 11, "dateTime": "2021-10-27 16:16:23.224", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": null, "data": {"type": "actionType.button", "desc": null, "text": "A to Z"}, "action": "click"}
+{"id": 12, "dateTime": "2021-10-27 16:16:38.791", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 13, "dateTime": "2021-10-27 16:16:38.889", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 14, "dateTime": "2021-10-27 16:17:38.847", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "MeHA Synthesis", "id": "45"}, "action": "click"}
+{"id": 15, "dateTime": "2021-10-27 16:17:38.872", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/info?itemID=45", "data": [], "action": "nav"}
+{"id": 16, "dateTime": "2021-10-27 16:17:39.194", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 17, "dateTime": "2021-10-27 16:17:50.612", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/info?itemID=45", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 45}, "action": "click"}
+{"id": 18, "dateTime": "2021-10-27 16:17:50.651", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 19, "dateTime": "2021-10-27 16:17:55.134", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 20, "dateTime": "2021-10-27 16:17:55.389", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 21, "dateTime": "2021-10-27 16:17:56.595", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": null, "data": {"type": "actionType.button", "desc": null, "text": "Z to A"}, "action": "click"}
+{"id": 22, "dateTime": "2021-10-27 16:18:01.023", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Mechanical Testing of hydrogel", "id": "47"}, "action": "click"}
+{"id": 23, "dateTime": "2021-10-27 16:18:01.038", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/info?itemID=47", "data": [], "action": "nav"}
+{"id": 24, "dateTime": "2021-10-27 16:18:01.355", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 25, "dateTime": "2021-10-27 16:18:12.019", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/info?itemID=47", "data": {"type": "actionType.iconButton", "desc": "leavingPage", "text": "Icons.arrow_back", "itemID": 47}, "action": "click"}
+{"id": 26, "dateTime": "2021-10-27 16:18:12.066", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 27, "dateTime": "2021-10-27 16:18:23.483", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "TEM Imaging", "id": "31"}, "action": "click"}
+{"id": 28, "dateTime": "2021-10-27 16:18:23.500", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/info?itemID=31", "data": [], "action": "nav"}
+{"id": 29, "dateTime": "2021-10-27 16:18:23.806", "isWeb": 1, "tmpUserID": 13, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}

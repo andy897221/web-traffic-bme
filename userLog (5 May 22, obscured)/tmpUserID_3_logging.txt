@@ -1,0 +1,4 @@
+{"id": 0, "dateTime": "2021-12-16 18:05:39.861", "isWeb": 1, "tmpUserID": 3, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 0, "dateTime": "2022-01-19 11:21:25.103", "isWeb": 1, "tmpUserID": 3, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-19 11:21:29.913", "isWeb": 1, "tmpUserID": 3, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-02-09 08:00:02.885", "isWeb": 1, "tmpUserID": 3, "userID": null, "context": "/", "data": [], "action": "nav"}

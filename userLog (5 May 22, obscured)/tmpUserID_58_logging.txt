@@ -1,0 +1,7 @@
+{"id": 0, "dateTime": "2022-01-12 17:46:41.251", "isWeb": 1, "tmpUserID": 58, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-12 17:47:05.723", "isWeb": 1, "tmpUserID": 58, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-01-26 10:29:02.222", "isWeb": 1, "tmpUserID": 58, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-26 10:29:29.889", "isWeb": 1, "tmpUserID": 58, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 2, "dateTime": "2022-01-26 10:29:30.081", "isWeb": 1, "tmpUserID": 58, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 3, "dateTime": "2022-01-26 10:29:33.439", "isWeb": 1, "tmpUserID": 58, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 4, "dateTime": "2022-01-26 10:29:37.088", "isWeb": 1, "tmpUserID": 58, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}

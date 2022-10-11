@@ -1,0 +1,12 @@
+{"id": 0, "dateTime": "2022-01-06 14:39:40.854", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-06 14:39:42.610", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2022-01-06 14:39:42.798", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2022-01-06 14:39:45.148", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/", "data": {"from": "Y506", "to": "ST414"}, "action": "changeTab"}
+{"id": 4, "dateTime": "2022-01-06 14:39:52.456", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "AMTI force plates for gait analysis", "id": "53"}, "action": "click"}
+{"id": 5, "dateTime": "2022-01-06 14:39:52.462", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/info?itemID=53", "data": [], "action": "nav"}
+{"id": 6, "dateTime": "2022-01-06 14:39:52.813", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 7, "dateTime": "2022-01-06 14:39:56.920", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/booking", "data": [], "action": "nav"}
+{"id": 8, "dateTime": "2022-01-06 14:39:57.022", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 9, "dateTime": "2022-01-06 14:40:01.697", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "popping"}
+{"id": 10, "dateTime": "2022-01-06 14:40:04.000", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/info?itemID=53", "data": [], "action": "popping"}
+{"id": 11, "dateTime": "2022-01-06 14:40:04.033", "isWeb": 1, "tmpUserID": 56, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}

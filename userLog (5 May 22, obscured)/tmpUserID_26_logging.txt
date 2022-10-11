@@ -1,0 +1,7 @@
+{"id": 0, "dateTime": "2021-10-27 18:30:06.078", "isWeb": 1, "tmpUserID": 26, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 18:30:40.184", "isWeb": 1, "tmpUserID": 26, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 18:30:40.412", "isWeb": 1, "tmpUserID": 26, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-10-27 18:30:44.150", "isWeb": 1, "tmpUserID": 26, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 4, "dateTime": "2021-10-27 18:30:44.893", "isWeb": 1, "tmpUserID": 26, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Forum"}, "action": "click"}
+{"id": 5, "dateTime": "2021-10-27 18:30:44.902", "isWeb": 1, "tmpUserID": 26, "userID": null, "context": "/discuss", "data": [], "action": "nav"}
+{"id": 6, "dateTime": "2021-10-27 18:30:49.160", "isWeb": 1, "tmpUserID": 26, "userID": null, "context": "/discuss", "data": [], "action": "popping"}

@@ -1,0 +1,71 @@
+{"id": 0, "dateTime": "2021-10-27 19:19:54.870", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 19:20:01.380", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 19:20:01.989", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-10-27 19:20:09.977", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/", "data": {"from": "Y506", "to": "GH198"}, "action": "changeTab"}
+{"id": 4, "dateTime": "2021-10-27 19:20:11.584", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 5, "dateTime": "2021-10-27 19:20:17.567", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "AMTI force plates for gait analysis", "id": "53"}, "action": "click"}
+{"id": 6, "dateTime": "2021-10-27 19:20:17.586", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/info?itemID=53", "data": [], "action": "nav"}
+{"id": 7, "dateTime": "2021-10-27 19:20:17.889", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 8, "dateTime": "2021-10-27 19:20:19.587", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/info?itemID=53", "data": {"type": "actionType.button", "desc": null, "text": "Check Protocol"}, "action": "click"}
+{"id": 9, "dateTime": "2021-10-27 19:20:35.331", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/info?itemID=53", "data": {"type": "actionType.button", "desc": null, "text": "General Lab Access Guide"}, "action": "click"}
+{"id": 10, "dateTime": "2021-10-27 19:20:35.366", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/pdfview?url=https%3A%2F%2Fwww.polyu.edu.hk%2Fbme%2Fstudent-research%2Fresources%2FlabAccessOverview.pdf", "data": [], "action": "nav"}
+{"id": 11, "dateTime": "2021-10-27 19:20:40.336", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/pdfview?url=https%3A%2F%2Fwww.polyu.edu.hk%2Fbme%2Fstudent-research%2Fresources%2FlabAccessOverview.pdf", "data": [], "action": "popping"}
+{"id": 12, "dateTime": "2021-10-27 19:20:43.116", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/info?itemID=53", "data": [], "action": "popping"}
+{"id": 13, "dateTime": "2021-10-27 19:20:43.158", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 14, "dateTime": "2021-10-27 19:20:46.749", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "My Profile"}, "action": "click"}
+{"id": 15, "dateTime": "2021-10-27 19:20:46.775", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 16, "dateTime": "2021-10-27 19:20:47.008", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 17, "dateTime": "2021-10-27 19:20:51.996", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 18, "dateTime": "2021-10-27 19:20:51.996", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 19, "dateTime": "2021-10-27 19:20:56.995", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 20, "dateTime": "2021-10-27 19:20:56.995", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 21, "dateTime": "2021-10-27 19:21:00.472", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 22, "dateTime": "2021-10-27 19:21:01.995", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 23, "dateTime": "2021-10-27 19:21:01.995", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 24, "dateTime": "2021-10-27 19:21:06.995", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 25, "dateTime": "2021-10-27 19:21:06.995", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 26, "dateTime": "2021-10-27 19:21:11.996", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 27, "dateTime": "2021-10-27 19:21:11.996", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 28, "dateTime": "2021-10-27 19:21:16.997", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 29, "dateTime": "2021-10-27 19:21:16.997", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 30, "dateTime": "2021-10-27 19:21:21.997", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 31, "dateTime": "2021-10-27 19:21:21.997", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 32, "dateTime": "2021-10-27 19:21:23.690", "isWeb": 1, "tmpUserID": 28, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 33, "dateTime": "2021-10-27 19:21:24.243", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 34, "dateTime": "2021-10-27 19:21:26.270", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 35, "dateTime": "2021-10-27 19:21:28.509", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 36, "dateTime": "2021-10-27 19:21:28.510", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 37, "dateTime": "2021-10-27 19:21:29.332", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textfieldFocus"}
+{"id": 38, "dateTime": "2021-10-27 19:21:33.480", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 39, "dateTime": "2021-10-27 19:21:33.480", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 40, "dateTime": "2021-10-27 19:21:33.491", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textfieldFocus"}
+{"id": 41, "dateTime": "2021-10-27 19:21:35.048", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 42, "dateTime": "2021-10-27 19:21:35.132", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": null, "data": {"type": "actionType.notifyDialog", "desc": null, "text": "Username changed successfully."}, "action": "click"}
+{"id": 43, "dateTime": "2021-10-27 19:21:36.148", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": null, "data": {"type": "actionType.notifyDialog", "desc": "Username changed successfully.", "text": "Okay"}, "action": "click"}
+{"id": 44, "dateTime": "2021-10-27 19:21:41.705", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/profile", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 45, "dateTime": "2021-10-27 19:21:44.016", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 46, "dateTime": "2021-10-27 19:21:44.256", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 47, "dateTime": "2021-10-27 19:21:47.456", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 48, "dateTime": "2021-10-27 19:21:47.576", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 49, "dateTime": "2021-10-27 19:22:05.700", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Nikon Eclipse TS2R", "id": "11"}, "action": "click"}
+{"id": 50, "dateTime": "2021-10-27 19:22:05.728", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/info?itemID=11", "data": [], "action": "nav"}
+{"id": 51, "dateTime": "2021-10-27 19:22:06.044", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 52, "dateTime": "2021-10-27 19:22:15.509", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/info?itemID=11", "data": {"type": "actionType.button", "desc": null, "text": "Go To Booking"}, "action": "click"}
+{"id": 53, "dateTime": "2021-10-27 19:22:15.529", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/booking?id=11&name=Nikon+Eclipse+TS2R&venue=Y506", "data": [], "action": "nav"}
+{"id": 54, "dateTime": "2021-10-27 19:22:35.183", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/booking?id=11&name=Nikon+Eclipse+TS2R&venue=Y506", "data": {"type": "actionType.iconButton", "desc": null, "text": "Select Date:"}, "action": "click"}
+{"id": 55, "dateTime": "2021-10-27 19:22:43.015", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/booking?id=11&name=Nikon+Eclipse+TS2R&venue=Y506", "data": [], "action": "popping"}
+{"id": 56, "dateTime": "2021-10-27 19:22:52.482", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/info?itemID=11", "data": [], "action": "popping"}
+{"id": 57, "dateTime": "2021-10-27 19:22:52.569", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 58, "dateTime": "2021-10-27 19:22:53.894", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"from": "ST414", "to": "GH198"}, "action": "changeTab"}
+{"id": 59, "dateTime": "2021-10-27 19:22:53.894", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"from": "GH198", "to": "GH198"}, "action": "changeTab"}
+{"id": 60, "dateTime": "2021-10-27 19:22:53.894", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"from": "GH198", "to": "GH198"}, "action": "changeTab"}
+{"id": 61, "dateTime": "2021-10-27 19:23:10.483", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": null, "data": {"type": "actionType.button", "desc": null, "text": "Z to A"}, "action": "click"}
+{"id": 62, "dateTime": "2021-10-27 19:23:11.431", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": null, "data": {"type": "actionType.button", "desc": null, "text": "A to Z"}, "action": "click"}
+{"id": 63, "dateTime": "2021-10-27 19:23:18.737", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"from": "GH198", "to": "ST414"}, "action": "changeTab"}
+{"id": 64, "dateTime": "2021-10-27 19:23:18.737", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"from": "ST414", "to": "ST414"}, "action": "changeTab"}
+{"id": 65, "dateTime": "2021-10-27 19:23:18.737", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"from": "ST414", "to": "ST414"}, "action": "changeTab"}
+{"id": 66, "dateTime": "2021-10-27 19:23:21.567", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "BTS-TELEMG multichannel electro-myographic system", "id": "54"}, "action": "click"}
+{"id": 67, "dateTime": "2021-10-27 19:23:21.590", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/info?itemID=54", "data": [], "action": "nav"}
+{"id": 68, "dateTime": "2021-10-27 19:23:21.922", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 69, "dateTime": "2021-10-27 19:23:28.111", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/info?itemID=54", "data": {"type": "actionType.button", "desc": null, "text": "General Lab Access Guide"}, "action": "click"}
+{"id": 70, "dateTime": "2021-10-27 19:23:28.140", "isWeb": 1, "tmpUserID": 28, "userID": 6, "context": "/pdfview?url=https%3A%2F%2Fwww.polyu.edu.hk%2Fbme%2Fstudent-research%2Fresources%2FlabAccessOverview.pdf", "data": [], "action": "nav"}

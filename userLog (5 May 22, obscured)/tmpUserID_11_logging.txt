@@ -1,0 +1,11 @@
+{"id": 0, "dateTime": "2021-10-27 16:10:43.786", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-10-27 16:10:58.159", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2021-10-27 16:10:58.335", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2021-10-27 16:11:03.867", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 4, "dateTime": "2021-10-27 16:11:03.995", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 5, "dateTime": "2021-10-27 16:11:07.692", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Booking"}, "action": "click"}
+{"id": 6, "dateTime": "2021-10-27 16:11:07.706", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/booking", "data": [], "action": "nav"}
+{"id": 7, "dateTime": "2021-10-27 16:11:07.790", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 8, "dateTime": "2021-10-27 16:11:09.921", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "popping"}
+{"id": 9, "dateTime": "2021-10-27 16:11:11.027", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Forum"}, "action": "click"}
+{"id": 10, "dateTime": "2021-10-27 16:11:11.044", "isWeb": 1, "tmpUserID": 11, "userID": null, "context": "/discuss", "data": [], "action": "nav"}

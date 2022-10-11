@@ -1,0 +1,5 @@
+{"id": 0, "dateTime": "2022-04-15 19:15:32.224", "isWeb": 1, "tmpUserID": 79, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-04-15 19:15:39.531", "isWeb": 1, "tmpUserID": 79, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Experiment Protocols"}, "action": "click"}
+{"id": 2, "dateTime": "2022-04-15 19:15:39.732", "isWeb": 1, "tmpUserID": 79, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2022-04-15 19:16:06.228", "isWeb": 1, "tmpUserID": 79, "userID": null, "context": null, "data": {"type": "actionType.button", "desc": null, "text": "Z to A"}, "action": "click"}
+{"id": 4, "dateTime": "2022-04-15 19:16:12.538", "isWeb": 1, "tmpUserID": 79, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}

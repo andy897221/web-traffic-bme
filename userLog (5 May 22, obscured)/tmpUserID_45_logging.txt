@@ -1,0 +1,22 @@
+{"id": 0, "dateTime": "2021-11-05 16:12:02.957", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2021-11-05 16:12:05.325", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Agree"}, "action": "click"}
+{"id": 2, "dateTime": "2021-11-05 16:13:38.949", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 3, "dateTime": "2021-11-05 16:13:39.835", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 4, "dateTime": "2021-11-05 16:13:51.483", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"from": "Y506", "to": "ST414"}, "action": "changeTab"}
+{"id": 5, "dateTime": "2021-11-05 16:13:54.505", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"from": "ST414", "to": "GH198"}, "action": "changeTab"}
+{"id": 6, "dateTime": "2021-11-05 16:14:01.780", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"from": "GH198", "to": "Y506"}, "action": "changeTab"}
+{"id": 7, "dateTime": "2021-11-05 16:14:20.922", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 8, "dateTime": "2021-11-05 16:14:59.648", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-01-19 16:50:22.726", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-19 16:50:29.908", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Facilities"}, "action": "click"}
+{"id": 2, "dateTime": "2022-01-19 16:50:30.160", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"at": "Y506"}, "action": "initTab"}
+{"id": 3, "dateTime": "2022-01-19 16:50:37.038", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": null, "data": {"type": "actionType.iconButton", "desc": "_bottomSheet", "text": "Icons.cancel"}, "action": "click"}
+{"id": 4, "dateTime": "2022-01-19 16:50:38.173", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 0, "dateTime": "2022-01-19 17:41:03.342", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": [], "action": "nav"}
+{"id": 1, "dateTime": "2022-01-19 18:28:49.310", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
+{"id": 2, "dateTime": "2022-01-19 19:06:40.985", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"type": "actionType.button", "desc": null, "text": "Login"}, "action": "click"}
+{"id": 3, "dateTime": "2022-01-19 19:06:41.058", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "nav"}
+{"id": 4, "dateTime": "2022-01-19 19:06:45.997", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 5, "dateTime": "2022-01-19 19:06:45.997", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "textInput"}
+{"id": 6, "dateTime": "2022-01-19 19:06:46.018", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/login", "data": {"text": "data-obscured", "desc": "data-obscured"}, "action": "click"}
+{"id": 7, "dateTime": "2022-01-19 19:06:48.644", "isWeb": 1, "tmpUserID": 45, "userID": null, "context": "/", "data": {"type": "actionType.iconButton", "desc": null, "text": "Remote Desktop"}, "action": "click"}
